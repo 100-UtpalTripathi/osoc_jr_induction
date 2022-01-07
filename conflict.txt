@@ -1,3 +1,7 @@
 Hello,
+<<<<<<< HEAD
 I am secondly modifying this file.
+=======
+I am firstly modifying this file.
+>>>>>>> new
 Thankyou!
