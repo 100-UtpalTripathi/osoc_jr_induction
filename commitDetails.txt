@@ -1,0 +1,65 @@
+commit da0e8dd25a1a7522c4f27250ff4f37ca2ca4afea
+
+Author: Utpal Tripathi <utpaltripathi14@gmail.com>
+
+Date:   Fri Jan 7 21:51:50 2022 +0530
+
+    
+Details about merge conflict creating and resolving!
+
+
+
+commit 35ba27aa79afe4932cb078c029169f06479c967c
+
+Merge: 958bc97 74fca08
+
+Author: Utpal Tripathi <utpaltripathi14@gmail.com>
+
+Date:   Fri Jan 7 21:36:50 2022 +0530
+
+    
+Merge conflict Resolved!
+
+
+
+commit 958bc97b1b2b567fa3fabed3e3c105fb54122886
+
+Author: Utpal Tripathi <utpaltripathi14@gmail.com>
+
+Date:   Fri Jan 7 21:30:13 2022 +0530
+
+    
+conflict.txt created in main
+
+
+
+commit 74fca082ad53031bbeedaec6b084bf2063be1758
+
+Author: Utpal Tripathi <utpaltripathi14@gmail.com>
+
+Date:   Fri Jan 7 21:27:34 2022 +0530
+
+    
+conflict.txt created in new branch
+
+
+
+commit 891aff67e718487f5e867f4eb115659f9853e31a
+
+Author: Utpal Tripathi <utpaltripathi14@gmail.com>
+
+Date:   Fri Jan 7 21:14:59 2022 +0530
+
+    
+Git not used commands list created
+
+
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    
+Initial commit
