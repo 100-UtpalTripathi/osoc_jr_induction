@@ -1,0 +1,12 @@
+Creation of Merge Conflict:
+    Firstly I created conflict.txt file in new branch then same named file in main branch but
+    text content of both the files are different at same lines so this will result into merge conflict
+    when we try to merge new branch to main branch.
+
+
+Resolving Merge Conflict:
+    I have three choices:
+	1. I can accept the changes of main branch. OR
+	2. I can accept the changes of new branch. OR
+	3. I can accept the changes of both branches.
+    In my case,I accepted the changes of both branches.
