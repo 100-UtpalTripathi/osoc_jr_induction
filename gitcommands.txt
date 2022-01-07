@@ -1,0 +1,29 @@
+1. Fetch: 
+This command retrieves the most recent changes in the branch and the local or remote repositories.
+
+2. Rebase:
+This command rebases the current branch onto the base, which can be a Commit ID or a branch name.
+
+3. DIff:
+This command shows difference in changes between saved changes or two Commits.
+
+4. Remote:
+This command displays the name of remote repositories.
+
+5. rm (file_name):
+This command stops tracking a file and gets rid it.
+
+6. mv (file_name) (new_file_name):
+This command alters the filename and gets it ready for Commit.
+
+7. show:
+This command outputs content changes and metadata for a particular Commit.
+
+8. stash:
+This command Does an interim save of all tracked files that have been modified.
+
+9. stash drop:
+This command gets rid of the most recently stashed files.
+
+10. reset –hard:
+It rolls back all history and changes for a specific Commit.
